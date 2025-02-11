@@ -1,7 +1,6 @@
 beardedbear.beardedtheme
 bradlc.vscode-tailwindcss
 dbaeumer.vscode-eslint
-entuent.fira-code-nerd-font
 esbenp.prettier-vscode
 jamesmaj.easy-icons
 streetsidesoftware.code-spell-checker
